@@ -1,0 +1,21 @@
+.button {
+    background-color: #e8cee1;;
+    color:  #4e4e4e;
+    border: 1px solid  #203e41;;
+    outline: none;
+    width: auto;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin: 0 10px;
+  }
+  
+  .button:hover,
+  .button:active {
+    background-color: white;
+    color: #bc6181;;
+    border: 1px solid  #764153;;
+    width: auto;
+    padding: 10px 20px;
+    border-radius: 5px;
+    outline: none;
+  }
